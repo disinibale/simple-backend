@@ -82,3 +82,14 @@
 20211025	19:47:11	b2f5b0d2-0af4-477f-948c-0c4629855783	PUT	undefined	/employees
 20211025	19:47:32	a605a113-9c71-4f03-985f-f456df50ff29	POST	undefined	/auth
 20211025	19:47:54	5008be2c-46bf-4c5c-9547-f7d77c92dc0e	DELETE	undefined	/employees
+20220325	00:40:15	0f56dbaa-71d3-44c1-88eb-4d8744f31aa0	OPTIONS	http://localhost:3000	/register
+20220325	00:40:40	f65c7374-e15f-41c7-9eb0-56351d5b70da	OPTIONS	http://localhost:3000	/register
+20220325	00:40:40	c28b6e1b-03ec-4ed4-b213-be0147061e58	POST	http://localhost:3000	/register
+20220325	00:41:20	0a695e78-a2e4-4e28-b30d-70a90d3615cb	GET	undefined	/
+20220325	00:42:35	4410cff3-f963-4615-af98-a66572c07ab9	GET	undefined	/
+20220325	00:43:49	98e93ae8-a3d6-42cc-93fd-6662a5ada3f0	OPTIONS	http://localhost:3000	/auth
+20220325	00:43:49	efc157c1-14c7-4e77-8f91-b1e4e3ba68d1	POST	http://localhost:3000	/auth
+20220325	00:45:24	af8a7d47-3722-4187-a786-a2771345ab8b	OPTIONS	http://localhost:3000	/auth
+20220325	00:45:24	e949f03e-9fe0-4f71-840c-23fa23571b04	POST	http://localhost:3000	/auth
+20220325	00:46:46	b3b78b2e-40e2-45dc-93a3-cc6d1b8c0f81	OPTIONS	http://localhost:3000	/auth
+20220325	00:46:46	f8f7fa26-143a-40e9-8299-758bea7f9878	POST	http://localhost:3000	/auth
